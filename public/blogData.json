@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Artificial Intelligence",
+        "content": "Artificial Intelligence (AI) is a rapidly evolving field...",
+        "date": "2023-08-15"
+      },
+      {
+        "id": 2,
+        "title": "The Power of Renewable Energy Sources",
+        "content": "Renewable energy sources such as solar, wind, and hydro power...",
+        "date": "2023-08-14"
+      },
+      {
+        "id": 3,
+        "title": "Exploring the Wonders of Space Travel",
+        "content": "Space travel has always captured the human imagination...",
+        "date": "2023-08-13"
+      }            
+      
+]
